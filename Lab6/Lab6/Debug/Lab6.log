@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\natap\source\repos\Lab6\Lab6\Source.cpp(17,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\natap\source\repos\Lab6\Lab6\Source.cpp(17,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab6.vcxproj -> C:\Users\natap\source\repos\Lab6\Debug\Lab6.exe
